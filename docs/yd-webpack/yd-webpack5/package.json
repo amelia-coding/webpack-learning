@@ -1,0 +1,13 @@
+{
+  "name": "yd-webpack5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.0.0-beta.16",
+    "webpack-cli": "^4.0.0-beta.8"
+  }
+}
